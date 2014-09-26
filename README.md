@@ -8,4 +8,6 @@
         <p> a simple app for OSX to check bash bug - shelshock</p>
     </li>
 </ul>
+<h3>My Blog: <a href="http://studiobinghuan.blogspot.com/?view=flipcard">http://studiobinghuan.blogspot.com/?view=flipcard</a><h3>
+<h3><a href="http://bhtalk.blogspot.com/?view=flipcard">http://bhtalk.blogspot.com/?view=flipcard</a><h3>
 
